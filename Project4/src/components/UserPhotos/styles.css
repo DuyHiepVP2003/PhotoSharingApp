@@ -1,0 +1,13 @@
+* {
+    font-family: sans-serif;
+}
+
+img {
+    width: 500px;
+    max-height: 400px;
+    object-fit: contain;
+}
+
+.userName {
+    font-weight: 800;
+}
